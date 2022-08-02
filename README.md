@@ -49,4 +49,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Mockup
 
+![mockup](https://user-images.githubusercontent.com/99366289/182279396-4277571b-e000-4aa6-a20e-381099161f5f.PNG)
 
